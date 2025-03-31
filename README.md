@@ -93,4 +93,4 @@ MIT License
 
 ---
 
-> Created with 🛠️ by [Your Name or GitHub Handle]
+> Created with 🛠️ by professorczech
